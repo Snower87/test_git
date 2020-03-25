@@ -1,1 +1,2 @@
 second file
+new line
